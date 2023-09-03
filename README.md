@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naman</h1>
-<h3 align="center">Machine Learning Developer and Competitive Programmer with a knack for the problem solving and a love for logic building.</h3>
+<h3 align="center">Machine Learner and Competitive Programmer with a knack for the problem solving and logic building.</h3>
 <img align="right" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namankhurana08&label=Profile%20views&color=0e75b6&style=flat" alt="namankhurana08" /> </p>
 
