@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Naman</h1>
-<h3 align="center">Machine Learner and Competitive Programmer.</h3>
+<h3 align="center">Frontend Developer, Machine Learning and Competitive Programmer.</h3>
 <img align="right" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namankhurana08&label=Profile%20views&color=0e75b6&style=flat" alt="namankhurana08" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Object Detection for Assisting Blind Individuals**
+- 🔭 I’m currently working on **Employee Management System**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Backend**
 
 - 📫 How to reach me **namankhurana84@gmail.com**
 
